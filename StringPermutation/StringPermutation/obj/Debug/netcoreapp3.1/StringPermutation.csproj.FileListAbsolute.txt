@@ -1,0 +1,14 @@
+D:\bridgelabz\.NET problems\StringPermutation\StringPermutation\bin\Debug\netcoreapp3.1\StringPermutation.exe
+D:\bridgelabz\.NET problems\StringPermutation\StringPermutation\bin\Debug\netcoreapp3.1\StringPermutation.deps.json
+D:\bridgelabz\.NET problems\StringPermutation\StringPermutation\bin\Debug\netcoreapp3.1\StringPermutation.runtimeconfig.json
+D:\bridgelabz\.NET problems\StringPermutation\StringPermutation\bin\Debug\netcoreapp3.1\StringPermutation.runtimeconfig.dev.json
+D:\bridgelabz\.NET problems\StringPermutation\StringPermutation\bin\Debug\netcoreapp3.1\StringPermutation.dll
+D:\bridgelabz\.NET problems\StringPermutation\StringPermutation\bin\Debug\netcoreapp3.1\StringPermutation.pdb
+D:\bridgelabz\.NET problems\StringPermutation\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.csproj.AssemblyReference.cache
+D:\bridgelabz\.NET problems\StringPermutation\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\.NET problems\StringPermutation\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.AssemblyInfoInputs.cache
+D:\bridgelabz\.NET problems\StringPermutation\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.AssemblyInfo.cs
+D:\bridgelabz\.NET problems\StringPermutation\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.csproj.CoreCompileInputs.cache
+D:\bridgelabz\.NET problems\StringPermutation\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.dll
+D:\bridgelabz\.NET problems\StringPermutation\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.pdb
+D:\bridgelabz\.NET problems\StringPermutation\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.genruntimeconfig.cache

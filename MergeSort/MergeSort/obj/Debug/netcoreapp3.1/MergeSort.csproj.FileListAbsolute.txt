@@ -1,0 +1,13 @@
+D:\bridgelabz\.NET problems\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.exe
+D:\bridgelabz\.NET problems\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.deps.json
+D:\bridgelabz\.NET problems\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.json
+D:\bridgelabz\.NET problems\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.dev.json
+D:\bridgelabz\.NET problems\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.dll
+D:\bridgelabz\.NET problems\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.pdb
+D:\bridgelabz\.NET problems\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\.NET problems\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfoInputs.cache
+D:\bridgelabz\.NET problems\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfo.cs
+D:\bridgelabz\.NET problems\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.csproj.CoreCompileInputs.cache
+D:\bridgelabz\.NET problems\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.dll
+D:\bridgelabz\.NET problems\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.pdb
+D:\bridgelabz\.NET problems\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.genruntimeconfig.cache

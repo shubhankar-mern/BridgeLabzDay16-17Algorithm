@@ -1,0 +1,14 @@
+D:\bridgelabz\.NET problems\Anagram\Anagram\bin\Debug\netcoreapp3.1\Anagram.exe
+D:\bridgelabz\.NET problems\Anagram\Anagram\bin\Debug\netcoreapp3.1\Anagram.deps.json
+D:\bridgelabz\.NET problems\Anagram\Anagram\bin\Debug\netcoreapp3.1\Anagram.runtimeconfig.json
+D:\bridgelabz\.NET problems\Anagram\Anagram\bin\Debug\netcoreapp3.1\Anagram.runtimeconfig.dev.json
+D:\bridgelabz\.NET problems\Anagram\Anagram\bin\Debug\netcoreapp3.1\Anagram.dll
+D:\bridgelabz\.NET problems\Anagram\Anagram\bin\Debug\netcoreapp3.1\Anagram.pdb
+D:\bridgelabz\.NET problems\Anagram\Anagram\obj\Debug\netcoreapp3.1\Anagram.csproj.AssemblyReference.cache
+D:\bridgelabz\.NET problems\Anagram\Anagram\obj\Debug\netcoreapp3.1\Anagram.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\.NET problems\Anagram\Anagram\obj\Debug\netcoreapp3.1\Anagram.AssemblyInfoInputs.cache
+D:\bridgelabz\.NET problems\Anagram\Anagram\obj\Debug\netcoreapp3.1\Anagram.AssemblyInfo.cs
+D:\bridgelabz\.NET problems\Anagram\Anagram\obj\Debug\netcoreapp3.1\Anagram.csproj.CoreCompileInputs.cache
+D:\bridgelabz\.NET problems\Anagram\Anagram\obj\Debug\netcoreapp3.1\Anagram.dll
+D:\bridgelabz\.NET problems\Anagram\Anagram\obj\Debug\netcoreapp3.1\Anagram.pdb
+D:\bridgelabz\.NET problems\Anagram\Anagram\obj\Debug\netcoreapp3.1\Anagram.genruntimeconfig.cache

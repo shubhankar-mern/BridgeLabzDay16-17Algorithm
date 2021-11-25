@@ -1,0 +1,13 @@
+D:\bridgelabz\.NET problems\BinarySearchNumber\BinarySearchNumber\bin\Debug\netcoreapp3.1\BinarySearchNumber.exe
+D:\bridgelabz\.NET problems\BinarySearchNumber\BinarySearchNumber\bin\Debug\netcoreapp3.1\BinarySearchNumber.deps.json
+D:\bridgelabz\.NET problems\BinarySearchNumber\BinarySearchNumber\bin\Debug\netcoreapp3.1\BinarySearchNumber.runtimeconfig.json
+D:\bridgelabz\.NET problems\BinarySearchNumber\BinarySearchNumber\bin\Debug\netcoreapp3.1\BinarySearchNumber.runtimeconfig.dev.json
+D:\bridgelabz\.NET problems\BinarySearchNumber\BinarySearchNumber\bin\Debug\netcoreapp3.1\BinarySearchNumber.dll
+D:\bridgelabz\.NET problems\BinarySearchNumber\BinarySearchNumber\bin\Debug\netcoreapp3.1\BinarySearchNumber.pdb
+D:\bridgelabz\.NET problems\BinarySearchNumber\BinarySearchNumber\obj\Debug\netcoreapp3.1\BinarySearchNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\.NET problems\BinarySearchNumber\BinarySearchNumber\obj\Debug\netcoreapp3.1\BinarySearchNumber.AssemblyInfoInputs.cache
+D:\bridgelabz\.NET problems\BinarySearchNumber\BinarySearchNumber\obj\Debug\netcoreapp3.1\BinarySearchNumber.AssemblyInfo.cs
+D:\bridgelabz\.NET problems\BinarySearchNumber\BinarySearchNumber\obj\Debug\netcoreapp3.1\BinarySearchNumber.csproj.CoreCompileInputs.cache
+D:\bridgelabz\.NET problems\BinarySearchNumber\BinarySearchNumber\obj\Debug\netcoreapp3.1\BinarySearchNumber.dll
+D:\bridgelabz\.NET problems\BinarySearchNumber\BinarySearchNumber\obj\Debug\netcoreapp3.1\BinarySearchNumber.pdb
+D:\bridgelabz\.NET problems\BinarySearchNumber\BinarySearchNumber\obj\Debug\netcoreapp3.1\BinarySearchNumber.genruntimeconfig.cache
